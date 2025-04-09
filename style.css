@@ -1,6 +1,9 @@
 h2{
     color: red;
 }
+section h3{
+    background: gray;
+}
 p{
     background: blue;
     color: #fff;
